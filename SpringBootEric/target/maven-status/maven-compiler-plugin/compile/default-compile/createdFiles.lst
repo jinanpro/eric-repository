@@ -1,0 +1,11 @@
+ericspring\TomcatCondition.class
+config\EricStartAutoConfig.class
+ericspring\EricSpringApplication.class
+ericspring\EricSpringBootApplication.class
+service\StudentService.class
+entity\Student.class
+ericspring\TomcatWebserver.class
+ericspring\JettyWebserver.class
+ericspring\JettyCondition.class
+ericspring\WebServceAutoConfiguration.class
+ericspring\WebServer.class
