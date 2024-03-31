@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SpringBootEric.iml" filepath="$PROJECT_DIR$/SpringBootEric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eric-repository.iml" filepath="$PROJECT_DIR$/eric-repository.iml" />
     </modules>
   </component>
 </project>
